@@ -17,7 +17,7 @@
         <column_label>Quantity</column_label>
         <comments/>
         <create_roles/>
-        <default_value>0</default_value>
+        <default_value/>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
@@ -61,7 +61,7 @@
         <sys_scope display_value="Wish List">dc6705751b033010cd24cae0604bcb72</sys_scope>
         <sys_update_name>sys_dictionary_x_706148_wish_list_wish_item_quantity</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-10-12 17:36:10</sys_updated_on>
+        <sys_updated_on>2021-10-12 18:13:18</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
